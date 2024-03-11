@@ -1,5 +1,5 @@
 
-bcb==0.2.0
+bcb
 numpy==1.26.3
 matplotlib==3.8.2
 matplotlib-inline==0.1.6
