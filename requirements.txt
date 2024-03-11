@@ -1,4 +1,5 @@
 lxml
+openpyxl
 pandas==2.0.0
 python-bcb
 numpy==1.26.3
