@@ -1,3 +1,4 @@
+lxml
 pandas==2.0.0
 python-bcb
 numpy==1.26.3
@@ -7,4 +8,3 @@ seaborn==0.13.2
 plotnine==0.12.4
 fonttools==4.47.2
 statsmodels==0.14.1
-lxml
